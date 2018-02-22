@@ -1,0 +1,7 @@
+tmp*
+*pyc
+_cache*
+run.sh
+launch.sh
+*.html
+*.png
